@@ -60,7 +60,7 @@ body {
   height: 60px;
   text-transform: uppercase;
   text-decoration: none;
-  color: black;
+  color: #1A1A1A;
 }
 
 .nav__link.is-active {
