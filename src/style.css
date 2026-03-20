@@ -30,7 +30,7 @@ body {
   margin-left: 50px;
 }
 
-nav {
+.nav {
   display: flex;
 
   margin-left: auto;
